@@ -1,6 +1,6 @@
 name: LP Capital Management
 favicon: null
-layout_spectrum: 0.5135683817788959
+layout_spectrum: 0.93048
 typography_spectrum: 0.3791912654414773
 title: LP Capital Management
 cta:
@@ -22,8 +22,8 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
-  brandStrength: 0.5
+  brandStrength: 0
   lightness: 0.7862878609448671
-  saturation: 0.875
-  rhythmicContrast: 0.3214482048060745
+  saturation: 0.8125
+  rhythmicContrast: 0
 purpose: []
