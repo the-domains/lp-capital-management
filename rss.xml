@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[LP Capital Management]]></title>
+        <description><![CDATA[LP Capital Management]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 19 Dec 2015 17:12:21 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>The amount of research I've done, well, I don't understand the idea of "investing."  I also hate the term "trading."  Check out today at about 24 minutes in...That was my question to BAT.
+
+If I sell a put in DIS, is that a trade or an investment?  I think there needs to be a new term for this.  
+
+I'm thinking something like "capital management."
+
+So, hence forth, the new website will be "LP Capital Management".
+
+Peace.</p>]]></description>
+            <link>undefined5d8cbf97-eb6e-4a3c-8b45-4de1d3128ccf/index.html</link>
+            <guid isPermaLink="false">5d8cbf97-eb6e-4a3c-8b45-4de1d3128ccf</guid>
+            <pubDate>Sat, 19 Dec 2015 17:12:12 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
